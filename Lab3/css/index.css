@@ -36,14 +36,13 @@ html, body {
 }
  .box{
     position: absolute;
-    padding: 50px 20px;
+    padding: 50px 40px;
     border-radius: 5px;
     width: 50%;
     background-color: white;
     z-index: 3;
 }
 .box .content{
-    text-align: center;
     font-size: 22px;
 }
 
